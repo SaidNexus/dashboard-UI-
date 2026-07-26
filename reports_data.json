@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "RPT-00001",
+    "title": "Ad-hoc Report - Simmons and Sons",
+    "date": "11 Aug 2025, 12:53",
+    "total_amount": 119485.06,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00002",
+    "title": "Quarterly Report - Scott-Cowan",
+    "date": "01 Jul 2025, 04:34",
+    "total_amount": 15145.98,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00003",
+    "title": "Weekly Report - Norton-Robinson",
+    "date": "18 Sep 2025, 22:55",
+    "total_amount": 157163.11,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00004",
+    "title": "Quarterly Report - Bright Inc",
+    "date": "22 Sep 2025, 23:50",
+    "total_amount": 88936.77,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00005",
+    "title": "Ad-hoc Report - Woods PLC",
+    "date": "23 Oct 2025, 12:01",
+    "total_amount": 129716.28,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00006",
+    "title": "Ad-hoc Report - Shannon, Gould and Miller",
+    "date": "23 Sep 2025, 00:40",
+    "total_amount": 43996.94,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00007",
+    "title": "Monthly Report - Neal-Carroll",
+    "date": "30 Oct 2025, 08:59",
+    "total_amount": 141523.41,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00008",
+    "title": "Weekly Report - Robles, Colon and Nelson",
+    "date": "28 Oct 2025, 16:33",
+    "total_amount": 117164.01,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00009",
+    "title": "Monthly Report - Medina-Knox",
+    "date": "30 Jun 2025, 09:57",
+    "total_amount": 59588.73,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00010",
+    "title": "Quarterly Report - Hoffman PLC",
+    "date": "29 Aug 2025, 19:04",
+    "total_amount": 151294.55,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00011",
+    "title": "Monthly Report - Fuentes and Sons",
+    "date": "04 Jun 2025, 21:27",
+    "total_amount": 14641.82,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00012",
+    "title": "Weekly Report - Williams, Morgan and Morris",
+    "date": "23 Oct 2025, 07:41",
+    "total_amount": 21087.96,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00013",
+    "title": "Ad-hoc Report - Lopez Ltd",
+    "date": "01 Oct 2025, 19:56",
+    "total_amount": 63254.12,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00014",
+    "title": "Quarterly Report - Flores Inc",
+    "date": "20 Jul 2025, 04:55",
+    "total_amount": 30358.01,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00015",
+    "title": "Monthly Report - Conner, Zamora and Vance",
+    "date": "28 May 2025, 07:40",
+    "total_amount": 29639.35,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00016",
+    "title": "Quarterly Report - Smith-Shannon",
+    "date": "31 Aug 2025, 15:22",
+    "total_amount": 98858.24,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00017",
+    "title": "Quarterly Report - Sullivan Group",
+    "date": "19 Sep 2025, 11:52",
+    "total_amount": 55139.19,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00018",
+    "title": "Monthly Report - Griffin, Williams and Payne",
+    "date": "17 May 2025, 21:43",
+    "total_amount": 116714.01,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00019",
+    "title": "Weekly Report - Kennedy-Schmidt",
+    "date": "29 Aug 2025, 02:56",
+    "total_amount": 142976.6,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00020",
+    "title": "Ad-hoc Report - Meyers, White and Calhoun",
+    "date": "26 Sep 2025, 20:45",
+    "total_amount": 157179.22,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00021",
+    "title": "Monthly Report - Little LLC",
+    "date": "24 Jun 2025, 06:17",
+    "total_amount": 16644.09,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00022",
+    "title": "Monthly Report - Moore, Atkinson and Coleman",
+    "date": "30 Aug 2025, 05:15",
+    "total_amount": 190810.0,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00023",
+    "title": "Ad-hoc Report - Brown and Sons",
+    "date": "17 Aug 2025, 10:14",
+    "total_amount": 188623.59,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00024",
+    "title": "Monthly Report - Rivera, Martin and Chavez",
+    "date": "31 May 2025, 22:06",
+    "total_amount": 75903.84,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00025",
+    "title": "Quarterly Report - Wyatt-Schultz",
+    "date": "22 Jul 2025, 17:00",
+    "total_amount": 73334.38,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00026",
+    "title": "Weekly Report - Scott, Hill and Morton",
+    "date": "15 Oct 2025, 14:20",
+    "total_amount": 160790.53,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00027",
+    "title": "Monthly Report - Salas-Jordan",
+    "date": "14 Jul 2025, 22:58",
+    "total_amount": 168595.11,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00028",
+    "title": "Quarterly Report - Evans-Barber",
+    "date": "03 Jun 2025, 23:38",
+    "total_amount": 64832.6,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00029",
+    "title": "Ad-hoc Report - Goodwin PLC",
+    "date": "04 Oct 2025, 11:44",
+    "total_amount": 37524.78,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00030",
+    "title": "Quarterly Report - Bates, Diaz and Romero",
+    "date": "28 Aug 2025, 10:41",
+    "total_amount": 56619.13,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00031",
+    "title": "Quarterly Report - Figueroa, Hopkins and Walton",
+    "date": "06 Sep 2025, 20:06",
+    "total_amount": 40372.5,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00032",
+    "title": "Monthly Report - Edwards, Myers and Lee",
+    "date": "15 Oct 2025, 02:41",
+    "total_amount": 156477.75,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00033",
+    "title": "Monthly Report - King Group",
+    "date": "25 Jul 2025, 17:50",
+    "total_amount": 115702.43,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00034",
+    "title": "Monthly Report - Gallagher-Wilson",
+    "date": "06 Jun 2025, 00:08",
+    "total_amount": 179203.54,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00035",
+    "title": "Quarterly Report - Smith Group",
+    "date": "20 Sep 2025, 13:14",
+    "total_amount": 14535.97,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00036",
+    "title": "Ad-hoc Report - Garrison Ltd",
+    "date": "22 Jul 2025, 03:00",
+    "total_amount": 175644.56,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00037",
+    "title": "Weekly Report - Patterson and Sons",
+    "date": "24 May 2025, 10:41",
+    "total_amount": 56633.11,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00038",
+    "title": "Monthly Report - Ross PLC",
+    "date": "02 Jul 2025, 19:02",
+    "total_amount": 154832.98,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00039",
+    "title": "Quarterly Report - Obrien PLC",
+    "date": "18 May 2025, 22:44",
+    "total_amount": 47841.88,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00040",
+    "title": "Quarterly Report - Bruce, Payne and Hernandez",
+    "date": "10 Jul 2025, 13:50",
+    "total_amount": 152394.6,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00041",
+    "title": "Monthly Report - Wall, Malone and Burns",
+    "date": "29 May 2025, 15:17",
+    "total_amount": 189204.78,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00042",
+    "title": "Ad-hoc Report - Pierce Inc",
+    "date": "02 Nov 2025, 07:48",
+    "total_amount": 40690.34,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00043",
+    "title": "Weekly Report - Hodges Inc",
+    "date": "09 Sep 2025, 09:11",
+    "total_amount": 143451.78,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00044",
+    "title": "Quarterly Report - Parker, Quinn and Ramos",
+    "date": "11 Sep 2025, 13:47",
+    "total_amount": 7224.42,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00045",
+    "title": "Weekly Report - Wagner-Wood",
+    "date": "01 Aug 2025, 21:38",
+    "total_amount": 189084.62,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00046",
+    "title": "Quarterly Report - Perkins-Anderson",
+    "date": "23 Aug 2025, 19:19",
+    "total_amount": 140914.89,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00047",
+    "title": "Weekly Report - Grant-Barnes",
+    "date": "26 Jun 2025, 12:19",
+    "total_amount": 57004.26,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00048",
+    "title": "Monthly Report - Cruz-Jacobs",
+    "date": "28 Oct 2025, 03:02",
+    "total_amount": 77476.65,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00049",
+    "title": "Quarterly Report - Mccarthy-Buchanan",
+    "date": "06 Jun 2025, 15:39",
+    "total_amount": 86761.81,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00050",
+    "title": "Quarterly Report - Weaver Inc",
+    "date": "08 Sep 2025, 04:25",
+    "total_amount": 111403.07,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00051",
+    "title": "Weekly Report - Edwards-Brown",
+    "date": "20 Oct 2025, 13:04",
+    "total_amount": 17634.42,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00052",
+    "title": "Weekly Report - Hayes, Smith and Baxter",
+    "date": "28 Sep 2025, 03:59",
+    "total_amount": 183492.41,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00053",
+    "title": "Ad-hoc Report - Hernandez, Thornton and Barron",
+    "date": "24 Oct 2025, 22:05",
+    "total_amount": 48782.61,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00054",
+    "title": "Quarterly Report - Peterson, Smith and Fields",
+    "date": "15 Jul 2025, 12:14",
+    "total_amount": 111390.02,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00055",
+    "title": "Weekly Report - Foster-Padilla",
+    "date": "03 Nov 2025, 12:31",
+    "total_amount": 64356.56,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00056",
+    "title": "Ad-hoc Report - Lang, Robinson and Lewis",
+    "date": "24 May 2025, 22:05",
+    "total_amount": 99614.7,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00057",
+    "title": "Monthly Report - Howard PLC",
+    "date": "26 Jul 2025, 13:25",
+    "total_amount": 163007.83,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00058",
+    "title": "Quarterly Report - Brooks, Harris and Moore",
+    "date": "04 Nov 2025, 20:18",
+    "total_amount": 189486.62,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00059",
+    "title": "Weekly Report - Richard LLC",
+    "date": "14 Aug 2025, 08:56",
+    "total_amount": 35226.39,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00060",
+    "title": "Weekly Report - Walls-Harris",
+    "date": "15 Jul 2025, 02:55",
+    "total_amount": 57332.77,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00061",
+    "title": "Monthly Report - Morse, Carpenter and Osborne",
+    "date": "22 May 2025, 02:19",
+    "total_amount": 111824.97,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00062",
+    "title": "Quarterly Report - Murray-Coleman",
+    "date": "16 Aug 2025, 00:21",
+    "total_amount": 100803.69,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00063",
+    "title": "Weekly Report - Barker, Cooper and Watts",
+    "date": "10 Oct 2025, 05:58",
+    "total_amount": 156862.51,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00064",
+    "title": "Quarterly Report - King, Rose and Lee",
+    "date": "06 Sep 2025, 10:35",
+    "total_amount": 79355.59,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00065",
+    "title": "Ad-hoc Report - Hensley, Donovan and Harris",
+    "date": "17 Aug 2025, 13:05",
+    "total_amount": 175340.54,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00066",
+    "title": "Ad-hoc Report - Wallace, Johnson and Walter",
+    "date": "17 May 2025, 08:36",
+    "total_amount": 98824.71,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00067",
+    "title": "Quarterly Report - Smith-Forbes",
+    "date": "09 Aug 2025, 18:44",
+    "total_amount": 46065.45,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00068",
+    "title": "Quarterly Report - Huber-Nelson",
+    "date": "10 Oct 2025, 11:29",
+    "total_amount": 181325.13,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00069",
+    "title": "Weekly Report - Watson Group",
+    "date": "10 Sep 2025, 20:20",
+    "total_amount": 176340.02,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00070",
+    "title": "Ad-hoc Report - Glover, Jensen and Rhodes",
+    "date": "05 Aug 2025, 04:39",
+    "total_amount": 155803.62,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00071",
+    "title": "Monthly Report - Sanchez, Jones and Williams",
+    "date": "12 Oct 2025, 21:01",
+    "total_amount": 63458.75,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00072",
+    "title": "Weekly Report - Holloway, Gomez and Perez",
+    "date": "18 Jun 2025, 08:37",
+    "total_amount": 107821.54,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00073",
+    "title": "Quarterly Report - Hernandez, Russell and Rios",
+    "date": "04 Nov 2025, 13:11",
+    "total_amount": 13288.52,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00074",
+    "title": "Ad-hoc Report - Adams, Smith and Barnes",
+    "date": "17 Jun 2025, 07:56",
+    "total_amount": 79966.73,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00075",
+    "title": "Monthly Report - Ward-Black",
+    "date": "06 Jul 2025, 20:48",
+    "total_amount": 68561.1,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00076",
+    "title": "Ad-hoc Report - Bennett, Kramer and Adams",
+    "date": "05 Jul 2025, 08:15",
+    "total_amount": 5347.03,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00077",
+    "title": "Quarterly Report - Johnston, Huang and Mason",
+    "date": "20 May 2025, 18:48",
+    "total_amount": 144680.52,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00078",
+    "title": "Weekly Report - Reed, Cooper and Wyatt",
+    "date": "04 Oct 2025, 12:30",
+    "total_amount": 165551.42,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00079",
+    "title": "Ad-hoc Report - Rodriguez-Rogers",
+    "date": "14 Jun 2025, 20:35",
+    "total_amount": 118612.15,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00080",
+    "title": "Quarterly Report - Bennett and Sons",
+    "date": "26 Aug 2025, 11:23",
+    "total_amount": 40217.17,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00081",
+    "title": "Quarterly Report - Little-Mosley",
+    "date": "07 Sep 2025, 14:07",
+    "total_amount": 13894.56,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00082",
+    "title": "Weekly Report - Hernandez Ltd",
+    "date": "17 Jul 2025, 00:11",
+    "total_amount": 170884.28,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00083",
+    "title": "Quarterly Report - Conrad-Beck",
+    "date": "15 Jul 2025, 11:26",
+    "total_amount": 163599.43,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00084",
+    "title": "Weekly Report - Gibson-Everett",
+    "date": "13 Aug 2025, 18:19",
+    "total_amount": 145162.06,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00085",
+    "title": "Quarterly Report - White, Gamble and Chambers",
+    "date": "31 Aug 2025, 08:10",
+    "total_amount": 47990.93,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00086",
+    "title": "Quarterly Report - Phillips Group",
+    "date": "11 Oct 2025, 02:15",
+    "total_amount": 179278.79,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00087",
+    "title": "Ad-hoc Report - Henderson, Kelly and Jackson",
+    "date": "26 Jun 2025, 08:45",
+    "total_amount": 41287.36,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00088",
+    "title": "Weekly Report - Valdez-Sims",
+    "date": "02 Nov 2025, 17:40",
+    "total_amount": 47698.23,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00089",
+    "title": "Weekly Report - Young PLC",
+    "date": "04 Jul 2025, 20:48",
+    "total_amount": 97756.84,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00090",
+    "title": "Monthly Report - Shelton-Thornton",
+    "date": "24 Jun 2025, 11:43",
+    "total_amount": 78031.08,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00091",
+    "title": "Weekly Report - Nguyen Inc",
+    "date": "20 Aug 2025, 12:59",
+    "total_amount": 137417.54,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00092",
+    "title": "Ad-hoc Report - Wilson-Hughes",
+    "date": "18 Sep 2025, 19:10",
+    "total_amount": 177724.94,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00093",
+    "title": "Weekly Report - Wilson-Day",
+    "date": "10 Jul 2025, 17:01",
+    "total_amount": 176695.04,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00094",
+    "title": "Weekly Report - Beasley-Haynes",
+    "date": "17 Jul 2025, 18:35",
+    "total_amount": 6286.27,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00095",
+    "title": "Ad-hoc Report - Johnson, Dunn and Turner",
+    "date": "22 Sep 2025, 08:11",
+    "total_amount": 65757.98,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00096",
+    "title": "Monthly Report - Lee-Lewis",
+    "date": "03 Aug 2025, 11:52",
+    "total_amount": 162966.72,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00097",
+    "title": "Monthly Report - Oliver-Mcgee",
+    "date": "06 Jul 2025, 14:22",
+    "total_amount": 83217.44,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00098",
+    "title": "Weekly Report - Moore, Sheppard and Hunt",
+    "date": "20 Jul 2025, 20:24",
+    "total_amount": 115583.79,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00099",
+    "title": "Weekly Report - Davis-Jackson",
+    "date": "12 Jul 2025, 06:11",
+    "total_amount": 133311.06,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00100",
+    "title": "Ad-hoc Report - Miller-Hill",
+    "date": "01 Aug 2025, 17:05",
+    "total_amount": 11831.29,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00101",
+    "title": "Quarterly Report - Campbell Ltd",
+    "date": "04 Jul 2025, 14:23",
+    "total_amount": 85887.69,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00102",
+    "title": "Quarterly Report - Richardson PLC",
+    "date": "22 May 2025, 04:04",
+    "total_amount": 6564.74,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00103",
+    "title": "Ad-hoc Report - Freeman, Williams and Hayes",
+    "date": "04 Aug 2025, 03:18",
+    "total_amount": 91570.12,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00104",
+    "title": "Weekly Report - Schneider-Hardy",
+    "date": "10 Aug 2025, 19:42",
+    "total_amount": 21499.24,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00105",
+    "title": "Quarterly Report - Johnson-Jackson",
+    "date": "20 May 2025, 01:51",
+    "total_amount": 126115.61,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00106",
+    "title": "Monthly Report - Jackson Ltd",
+    "date": "27 Aug 2025, 12:20",
+    "total_amount": 43705.32,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00107",
+    "title": "Weekly Report - Doyle-Lane",
+    "date": "25 Jul 2025, 10:56",
+    "total_amount": 157997.22,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00108",
+    "title": "Weekly Report - Cooper-Oliver",
+    "date": "26 Sep 2025, 13:25",
+    "total_amount": 125272.33,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00109",
+    "title": "Ad-hoc Report - Rogers-Walters",
+    "date": "11 Sep 2025, 20:11",
+    "total_amount": 39475.42,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00110",
+    "title": "Monthly Report - Brown-Lloyd",
+    "date": "15 Jul 2025, 05:01",
+    "total_amount": 154526.97,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00111",
+    "title": "Monthly Report - Carter Inc",
+    "date": "15 May 2025, 21:35",
+    "total_amount": 128157.03,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00112",
+    "title": "Ad-hoc Report - Holt, Martinez and Kelley",
+    "date": "28 Sep 2025, 00:28",
+    "total_amount": 28564.02,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00113",
+    "title": "Monthly Report - Crosby and Sons",
+    "date": "18 May 2025, 16:09",
+    "total_amount": 106139.03,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00114",
+    "title": "Weekly Report - Leon-Owens",
+    "date": "12 Oct 2025, 21:25",
+    "total_amount": 3944.93,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00115",
+    "title": "Monthly Report - Rowland Inc",
+    "date": "02 Oct 2025, 08:25",
+    "total_amount": 144452.94,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00116",
+    "title": "Monthly Report - Moore PLC",
+    "date": "17 Sep 2025, 05:39",
+    "total_amount": 165755.76,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00117",
+    "title": "Monthly Report - Bailey LLC",
+    "date": "19 Jul 2025, 10:42",
+    "total_amount": 77223.37,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00118",
+    "title": "Ad-hoc Report - Brandt, Fischer and Morris",
+    "date": "13 Jul 2025, 10:12",
+    "total_amount": 58799.41,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00119",
+    "title": "Weekly Report - King, Odom and Gutierrez",
+    "date": "30 Jul 2025, 10:22",
+    "total_amount": 35586.78,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00120",
+    "title": "Weekly Report - Blevins, Castaneda and Weber",
+    "date": "10 Aug 2025, 09:36",
+    "total_amount": 194877.63,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00121",
+    "title": "Quarterly Report - Faulkner, Smith and Calderon",
+    "date": "03 Aug 2025, 05:42",
+    "total_amount": 192086.98,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00122",
+    "title": "Monthly Report - Flynn, Strickland and Evans",
+    "date": "12 Sep 2025, 13:35",
+    "total_amount": 45129.76,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00123",
+    "title": "Ad-hoc Report - Knight, Ingram and Bennett",
+    "date": "22 Sep 2025, 06:05",
+    "total_amount": 96412.96,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00124",
+    "title": "Monthly Report - Lam-Huynh",
+    "date": "04 Jul 2025, 01:27",
+    "total_amount": 61022.3,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00125",
+    "title": "Ad-hoc Report - Preston-Brown",
+    "date": "30 Sep 2025, 10:32",
+    "total_amount": 4570.82,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00126",
+    "title": "Weekly Report - Phillips and Sons",
+    "date": "15 May 2025, 14:43",
+    "total_amount": 111040.01,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00127",
+    "title": "Ad-hoc Report - Cohen, Morris and Bowen",
+    "date": "02 Jun 2025, 16:04",
+    "total_amount": 67964.09,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00128",
+    "title": "Weekly Report - Gallagher-Le",
+    "date": "06 Jul 2025, 06:52",
+    "total_amount": 149324.63,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00129",
+    "title": "Monthly Report - Adams LLC",
+    "date": "10 Oct 2025, 09:55",
+    "total_amount": 180431.61,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00130",
+    "title": "Quarterly Report - Ortiz-Rodriguez",
+    "date": "22 Jun 2025, 06:24",
+    "total_amount": 161327.1,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00131",
+    "title": "Monthly Report - Johnson and Sons",
+    "date": "01 Oct 2025, 17:12",
+    "total_amount": 120718.98,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00132",
+    "title": "Monthly Report - Morrison-Lee",
+    "date": "19 Jun 2025, 19:20",
+    "total_amount": 31140.87,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00133",
+    "title": "Quarterly Report - Wolf-Brock",
+    "date": "24 Jul 2025, 17:34",
+    "total_amount": 137240.42,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00134",
+    "title": "Monthly Report - Snyder, Pineda and Jones",
+    "date": "13 Jun 2025, 07:52",
+    "total_amount": 131435.17,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00135",
+    "title": "Quarterly Report - Huff Inc",
+    "date": "08 Jun 2025, 01:25",
+    "total_amount": 94164.59,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00136",
+    "title": "Weekly Report - Sutton and Sons",
+    "date": "29 May 2025, 00:48",
+    "total_amount": 141180.34,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00137",
+    "title": "Quarterly Report - Warner Group",
+    "date": "27 May 2025, 03:15",
+    "total_amount": 113721.13,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00138",
+    "title": "Monthly Report - Miller-Allen",
+    "date": "18 May 2025, 07:08",
+    "total_amount": 144383.61,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00139",
+    "title": "Ad-hoc Report - Ford, Jackson and Ramos",
+    "date": "17 Jun 2025, 19:26",
+    "total_amount": 31618.51,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00140",
+    "title": "Quarterly Report - Young-Roman",
+    "date": "21 May 2025, 01:49",
+    "total_amount": 49633.85,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00141",
+    "title": "Monthly Report - Baker, Ibarra and Webb",
+    "date": "06 Aug 2025, 06:51",
+    "total_amount": 100434.25,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00142",
+    "title": "Ad-hoc Report - Tate Ltd",
+    "date": "21 Jun 2025, 08:48",
+    "total_amount": 103636.19,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00143",
+    "title": "Quarterly Report - Murphy Group",
+    "date": "14 Jul 2025, 21:35",
+    "total_amount": 34926.35,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00144",
+    "title": "Monthly Report - Bowman, Carlson and Bailey",
+    "date": "17 May 2025, 05:50",
+    "total_amount": 22012.6,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00145",
+    "title": "Monthly Report - West, King and Henderson",
+    "date": "23 Oct 2025, 03:37",
+    "total_amount": 32096.78,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00146",
+    "title": "Monthly Report - Castillo, Payne and Davies",
+    "date": "25 May 2025, 03:24",
+    "total_amount": 178946.31,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00147",
+    "title": "Quarterly Report - Ward-Rodriguez",
+    "date": "14 May 2025, 18:34",
+    "total_amount": 9841.16,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00148",
+    "title": "Ad-hoc Report - Sherman-Maldonado",
+    "date": "08 Sep 2025, 10:16",
+    "total_amount": 51511.36,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00149",
+    "title": "Quarterly Report - Williams Inc",
+    "date": "01 Aug 2025, 22:36",
+    "total_amount": 115042.9,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00150",
+    "title": "Weekly Report - Williams, Johnson and Sanchez",
+    "date": "25 Aug 2025, 04:30",
+    "total_amount": 111562.79,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00151",
+    "title": "Weekly Report - Christensen-Rosales",
+    "date": "23 Jul 2025, 00:07",
+    "total_amount": 35543.25,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00152",
+    "title": "Monthly Report - Carter-Stephens",
+    "date": "28 Oct 2025, 00:59",
+    "total_amount": 160290.57,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00153",
+    "title": "Weekly Report - Mcclain-Robertson",
+    "date": "11 Jun 2025, 19:19",
+    "total_amount": 123046.33,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00154",
+    "title": "Weekly Report - Cruz, Williams and Byrd",
+    "date": "07 Aug 2025, 21:59",
+    "total_amount": 159199.01,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00155",
+    "title": "Monthly Report - Thompson-Cox",
+    "date": "07 Oct 2025, 06:29",
+    "total_amount": 178324.12,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00156",
+    "title": "Monthly Report - Figueroa-Johnson",
+    "date": "16 Jul 2025, 10:29",
+    "total_amount": 74392.33,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00157",
+    "title": "Quarterly Report - Hanna-Ramirez",
+    "date": "28 May 2025, 19:14",
+    "total_amount": 97061.11,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00158",
+    "title": "Ad-hoc Report - Skinner LLC",
+    "date": "24 May 2025, 22:26",
+    "total_amount": 40212.54,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00159",
+    "title": "Ad-hoc Report - Diaz, Holmes and Flores",
+    "date": "06 Oct 2025, 13:54",
+    "total_amount": 121108.84,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00160",
+    "title": "Ad-hoc Report - Malone Group",
+    "date": "07 Jul 2025, 04:00",
+    "total_amount": 55540.99,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00161",
+    "title": "Weekly Report - Valdez Ltd",
+    "date": "11 Aug 2025, 14:49",
+    "total_amount": 173310.82,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00162",
+    "title": "Monthly Report - Smith, Smith and Perez",
+    "date": "18 Sep 2025, 16:13",
+    "total_amount": 77587.39,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00163",
+    "title": "Quarterly Report - Mccarty-Bradley",
+    "date": "14 Jun 2025, 15:49",
+    "total_amount": 187729.12,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00164",
+    "title": "Monthly Report - Pearson Ltd",
+    "date": "12 Sep 2025, 16:00",
+    "total_amount": 10949.93,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00165",
+    "title": "Quarterly Report - Rice-Barnes",
+    "date": "09 Aug 2025, 11:36",
+    "total_amount": 15150.85,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00166",
+    "title": "Quarterly Report - Decker-Weber",
+    "date": "07 Jun 2025, 04:24",
+    "total_amount": 11140.77,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00167",
+    "title": "Quarterly Report - Rodriguez, Hanna and Johnson",
+    "date": "12 Aug 2025, 20:48",
+    "total_amount": 22159.78,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00168",
+    "title": "Weekly Report - Riggs PLC",
+    "date": "25 Sep 2025, 14:44",
+    "total_amount": 85504.21,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00169",
+    "title": "Quarterly Report - Salas Group",
+    "date": "21 Aug 2025, 02:15",
+    "total_amount": 99809.83,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00170",
+    "title": "Weekly Report - Fuentes-Stafford",
+    "date": "16 Sep 2025, 05:24",
+    "total_amount": 143657.95,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00171",
+    "title": "Ad-hoc Report - Welch Inc",
+    "date": "13 Sep 2025, 06:12",
+    "total_amount": 95463.38,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00172",
+    "title": "Ad-hoc Report - Proctor, Gutierrez and Smith",
+    "date": "27 Jul 2025, 22:40",
+    "total_amount": 65723.68,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00173",
+    "title": "Quarterly Report - Bennett-Jones",
+    "date": "03 Jul 2025, 18:37",
+    "total_amount": 178418.63,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00174",
+    "title": "Monthly Report - Mayer Ltd",
+    "date": "14 Jun 2025, 00:33",
+    "total_amount": 41052.94,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00175",
+    "title": "Quarterly Report - Hughes and Sons",
+    "date": "23 Sep 2025, 14:20",
+    "total_amount": 56886.05,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00176",
+    "title": "Quarterly Report - Patel PLC",
+    "date": "04 Sep 2025, 10:41",
+    "total_amount": 27513.8,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00177",
+    "title": "Quarterly Report - Fleming, Carroll and Moss",
+    "date": "21 Jul 2025, 07:31",
+    "total_amount": 84190.6,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00178",
+    "title": "Weekly Report - Thomas PLC",
+    "date": "18 May 2025, 05:51",
+    "total_amount": 102441.43,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00179",
+    "title": "Weekly Report - Williams-Crosby",
+    "date": "09 Sep 2025, 22:01",
+    "total_amount": 54969.26,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00180",
+    "title": "Monthly Report - Brown-Brooks",
+    "date": "15 Aug 2025, 09:11",
+    "total_amount": 82124.56,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00181",
+    "title": "Weekly Report - Sanchez Group",
+    "date": "09 Jul 2025, 16:05",
+    "total_amount": 123604.74,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00182",
+    "title": "Ad-hoc Report - Donaldson, Gonzalez and Campbell",
+    "date": "07 Aug 2025, 00:08",
+    "total_amount": 31049.34,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00183",
+    "title": "Weekly Report - Lewis, Costa and Norman",
+    "date": "19 Jul 2025, 11:16",
+    "total_amount": 47120.3,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00184",
+    "title": "Weekly Report - Edwards, King and Mcdaniel",
+    "date": "05 Sep 2025, 16:46",
+    "total_amount": 55351.5,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00185",
+    "title": "Quarterly Report - Johnson, Taylor and Perez",
+    "date": "01 Jul 2025, 11:29",
+    "total_amount": 4920.29,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00186",
+    "title": "Ad-hoc Report - Campbell, Duncan and Williams",
+    "date": "19 Sep 2025, 00:21",
+    "total_amount": 87628.19,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00187",
+    "title": "Ad-hoc Report - Holland, Espinoza and Smith",
+    "date": "24 Jul 2025, 04:08",
+    "total_amount": 190032.96,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00188",
+    "title": "Monthly Report - Young, Terry and Wilcox",
+    "date": "15 Jun 2025, 08:38",
+    "total_amount": 105568.6,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00189",
+    "title": "Quarterly Report - Roberts Group",
+    "date": "08 Jul 2025, 09:16",
+    "total_amount": 51317.28,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00190",
+    "title": "Ad-hoc Report - Clark-Smith",
+    "date": "27 Jul 2025, 02:54",
+    "total_amount": 177042.8,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00191",
+    "title": "Weekly Report - Charles, Taylor and Walters",
+    "date": "18 Jun 2025, 19:45",
+    "total_amount": 93733.55,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00192",
+    "title": "Weekly Report - Johnson PLC",
+    "date": "03 Jun 2025, 14:53",
+    "total_amount": 16800.44,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00193",
+    "title": "Quarterly Report - Atkinson Ltd",
+    "date": "18 Jun 2025, 19:31",
+    "total_amount": 169138.0,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00194",
+    "title": "Monthly Report - Salazar LLC",
+    "date": "21 Jul 2025, 12:30",
+    "total_amount": 147878.12,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00195",
+    "title": "Weekly Report - Clay Inc",
+    "date": "27 Jul 2025, 22:32",
+    "total_amount": 40377.07,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00196",
+    "title": "Ad-hoc Report - Murray-Tran",
+    "date": "23 Jul 2025, 22:42",
+    "total_amount": 86706.18,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00197",
+    "title": "Quarterly Report - Hall Inc",
+    "date": "23 Sep 2025, 07:19",
+    "total_amount": 130467.34,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00198",
+    "title": "Weekly Report - Johnson, Garcia and Oliver",
+    "date": "20 Aug 2025, 02:28",
+    "total_amount": 142470.97,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00199",
+    "title": "Ad-hoc Report - Walker LLC",
+    "date": "14 Sep 2025, 06:58",
+    "total_amount": 130443.19,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00200",
+    "title": "Monthly Report - Perry Inc",
+    "date": "19 Oct 2025, 15:53",
+    "total_amount": 148285.97,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00201",
+    "title": "Weekly Report - Stevens, Ramirez and Powell",
+    "date": "10 Jul 2025, 05:15",
+    "total_amount": 74871.47,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00202",
+    "title": "Weekly Report - Munoz Ltd",
+    "date": "16 Sep 2025, 23:14",
+    "total_amount": 120682.75,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00203",
+    "title": "Weekly Report - Pineda, Valentine and Sanford",
+    "date": "11 Sep 2025, 10:00",
+    "total_amount": 142824.41,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00204",
+    "title": "Quarterly Report - Hurley and Sons",
+    "date": "21 Aug 2025, 21:41",
+    "total_amount": 135250.94,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00205",
+    "title": "Ad-hoc Report - Hunter PLC",
+    "date": "29 Jun 2025, 06:59",
+    "total_amount": 36814.19,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00206",
+    "title": "Quarterly Report - Willis Group",
+    "date": "11 Jul 2025, 09:15",
+    "total_amount": 9778.36,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00207",
+    "title": "Weekly Report - Lopez Group",
+    "date": "21 Jul 2025, 13:20",
+    "total_amount": 93437.83,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00208",
+    "title": "Monthly Report - Perez Group",
+    "date": "23 Jun 2025, 06:29",
+    "total_amount": 23216.18,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00209",
+    "title": "Quarterly Report - Sandoval, Peterson and Alvarez",
+    "date": "12 Aug 2025, 19:24",
+    "total_amount": 111053.55,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00210",
+    "title": "Monthly Report - Floyd and Sons",
+    "date": "23 Aug 2025, 07:40",
+    "total_amount": 69058.99,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00211",
+    "title": "Ad-hoc Report - Sandoval, Padilla and Cain",
+    "date": "21 Sep 2025, 02:36",
+    "total_amount": 58987.93,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00212",
+    "title": "Weekly Report - Rogers and Sons",
+    "date": "08 Nov 2025, 15:49",
+    "total_amount": 131144.79,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00213",
+    "title": "Weekly Report - Bond, Chaney and Ballard",
+    "date": "30 Jul 2025, 23:56",
+    "total_amount": 59677.1,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00214",
+    "title": "Monthly Report - Klein-Hall",
+    "date": "21 Jul 2025, 13:54",
+    "total_amount": 140467.13,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00215",
+    "title": "Quarterly Report - Freeman-Hall",
+    "date": "06 Nov 2025, 10:07",
+    "total_amount": 46885.98,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00216",
+    "title": "Ad-hoc Report - Velez, Lozano and Cruz",
+    "date": "13 Jun 2025, 19:39",
+    "total_amount": 68076.88,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00217",
+    "title": "Monthly Report - Marsh Inc",
+    "date": "27 Jun 2025, 17:37",
+    "total_amount": 127312.6,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00218",
+    "title": "Ad-hoc Report - Brooks, Gibson and Howard",
+    "date": "27 May 2025, 03:24",
+    "total_amount": 150057.8,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00219",
+    "title": "Weekly Report - Burns LLC",
+    "date": "28 Aug 2025, 04:33",
+    "total_amount": 162549.14,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00220",
+    "title": "Ad-hoc Report - Bullock-Flores",
+    "date": "07 Sep 2025, 02:10",
+    "total_amount": 6631.77,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00221",
+    "title": "Weekly Report - Zuniga and Sons",
+    "date": "30 Oct 2025, 14:11",
+    "total_amount": 17076.99,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00222",
+    "title": "Quarterly Report - Lara, Garcia and Rogers",
+    "date": "24 Sep 2025, 22:17",
+    "total_amount": 17547.19,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00223",
+    "title": "Ad-hoc Report - Hunt, Moore and Roy",
+    "date": "13 Aug 2025, 02:00",
+    "total_amount": 69999.11,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00224",
+    "title": "Quarterly Report - Austin Inc",
+    "date": "28 Aug 2025, 20:12",
+    "total_amount": 70020.2,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00225",
+    "title": "Monthly Report - Wallace PLC",
+    "date": "24 Oct 2025, 15:32",
+    "total_amount": 37300.16,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00226",
+    "title": "Ad-hoc Report - Patel PLC",
+    "date": "25 Sep 2025, 19:28",
+    "total_amount": 4584.42,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00227",
+    "title": "Quarterly Report - Meyers Group",
+    "date": "03 Jul 2025, 15:38",
+    "total_amount": 165391.89,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00228",
+    "title": "Ad-hoc Report - Garcia Group",
+    "date": "02 Sep 2025, 17:16",
+    "total_amount": 11336.3,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00229",
+    "title": "Weekly Report - Bartlett-Garcia",
+    "date": "06 Oct 2025, 13:10",
+    "total_amount": 21555.6,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00230",
+    "title": "Weekly Report - Sanchez PLC",
+    "date": "06 Nov 2025, 08:51",
+    "total_amount": 191054.35,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00231",
+    "title": "Ad-hoc Report - Gutierrez-Macdonald",
+    "date": "10 Jul 2025, 09:04",
+    "total_amount": 120995.12,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00232",
+    "title": "Quarterly Report - Anderson Group",
+    "date": "21 Sep 2025, 16:47",
+    "total_amount": 187412.78,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00233",
+    "title": "Monthly Report - Webster, Clark and Mora",
+    "date": "19 May 2025, 22:18",
+    "total_amount": 47368.37,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00234",
+    "title": "Ad-hoc Report - Stewart-Foster",
+    "date": "19 Aug 2025, 21:00",
+    "total_amount": 39675.75,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00235",
+    "title": "Monthly Report - Williamson Inc",
+    "date": "01 Jun 2025, 01:33",
+    "total_amount": 193251.64,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00236",
+    "title": "Ad-hoc Report - Morgan-Howard",
+    "date": "07 Oct 2025, 05:30",
+    "total_amount": 100208.22,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00237",
+    "title": "Monthly Report - Waters, French and Hart",
+    "date": "10 Aug 2025, 15:25",
+    "total_amount": 70483.78,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00238",
+    "title": "Weekly Report - Dennis LLC",
+    "date": "30 Sep 2025, 15:40",
+    "total_amount": 109773.59,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00239",
+    "title": "Ad-hoc Report - Michael PLC",
+    "date": "14 Aug 2025, 20:51",
+    "total_amount": 22032.39,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00240",
+    "title": "Weekly Report - Brown PLC",
+    "date": "26 Aug 2025, 22:19",
+    "total_amount": 192351.17,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00241",
+    "title": "Quarterly Report - Marshall and Sons",
+    "date": "18 Jul 2025, 01:00",
+    "total_amount": 131509.96,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00242",
+    "title": "Quarterly Report - Carrillo-Williams",
+    "date": "30 May 2025, 18:32",
+    "total_amount": 109435.47,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00243",
+    "title": "Monthly Report - Martinez Group",
+    "date": "10 Jul 2025, 12:04",
+    "total_amount": 7993.88,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00244",
+    "title": "Weekly Report - Matthews, Powell and Adams",
+    "date": "10 Sep 2025, 12:28",
+    "total_amount": 191568.93,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00245",
+    "title": "Weekly Report - Howard Ltd",
+    "date": "19 Aug 2025, 03:42",
+    "total_amount": 83119.49,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00246",
+    "title": "Monthly Report - Cruz, Richardson and Price",
+    "date": "30 Jul 2025, 01:53",
+    "total_amount": 47059.46,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00247",
+    "title": "Ad-hoc Report - Cordova LLC",
+    "date": "26 Oct 2025, 01:23",
+    "total_amount": 6727.43,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00248",
+    "title": "Ad-hoc Report - Thomas, Butler and Anderson",
+    "date": "29 Sep 2025, 03:46",
+    "total_amount": 193959.61,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00249",
+    "title": "Weekly Report - Humphrey-Barnes",
+    "date": "23 Jun 2025, 18:31",
+    "total_amount": 161794.17,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00250",
+    "title": "Quarterly Report - Smith PLC",
+    "date": "15 Oct 2025, 17:18",
+    "total_amount": 56605.74,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00251",
+    "title": "Ad-hoc Report - Martinez and Sons",
+    "date": "11 Jun 2025, 19:04",
+    "total_amount": 2507.22,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00252",
+    "title": "Weekly Report - Bell, Wilson and Ford",
+    "date": "01 Jun 2025, 11:59",
+    "total_amount": 5893.06,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00253",
+    "title": "Weekly Report - Wu-Lucas",
+    "date": "06 Oct 2025, 15:00",
+    "total_amount": 87012.64,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00254",
+    "title": "Quarterly Report - Gill-Holden",
+    "date": "30 Sep 2025, 01:24",
+    "total_amount": 75292.28,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00255",
+    "title": "Quarterly Report - Hayes-Mueller",
+    "date": "15 May 2025, 06:49",
+    "total_amount": 108581.53,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00256",
+    "title": "Weekly Report - Higgins PLC",
+    "date": "04 Sep 2025, 22:31",
+    "total_amount": 172254.13,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00257",
+    "title": "Ad-hoc Report - Brock Group",
+    "date": "18 May 2025, 11:55",
+    "total_amount": 168587.79,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00258",
+    "title": "Ad-hoc Report - Roman PLC",
+    "date": "16 Sep 2025, 04:45",
+    "total_amount": 91087.07,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00259",
+    "title": "Ad-hoc Report - Perry-Stewart",
+    "date": "26 Jul 2025, 05:05",
+    "total_amount": 86230.43,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00260",
+    "title": "Weekly Report - Mills-Adams",
+    "date": "06 Jul 2025, 11:19",
+    "total_amount": 28223.9,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00261",
+    "title": "Ad-hoc Report - Herman, Baker and King",
+    "date": "25 Oct 2025, 01:52",
+    "total_amount": 19205.6,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00262",
+    "title": "Quarterly Report - Harrison Inc",
+    "date": "21 Jul 2025, 22:21",
+    "total_amount": 179446.89,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00263",
+    "title": "Weekly Report - Mueller-George",
+    "date": "17 Aug 2025, 21:49",
+    "total_amount": 65263.14,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00264",
+    "title": "Ad-hoc Report - Adams, Ryan and Carroll",
+    "date": "02 Aug 2025, 19:38",
+    "total_amount": 8949.4,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00265",
+    "title": "Monthly Report - Lang-Guerra",
+    "date": "16 Sep 2025, 00:20",
+    "total_amount": 128748.8,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00266",
+    "title": "Quarterly Report - Chavez Inc",
+    "date": "22 Jun 2025, 16:46",
+    "total_amount": 67831.03,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00267",
+    "title": "Weekly Report - Riley-Jackson",
+    "date": "30 Oct 2025, 09:38",
+    "total_amount": 175625.39,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00268",
+    "title": "Monthly Report - Garza, Mendez and Martin",
+    "date": "05 Aug 2025, 23:19",
+    "total_amount": 170676.31,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00269",
+    "title": "Weekly Report - Jefferson-Aguirre",
+    "date": "28 Jul 2025, 10:23",
+    "total_amount": 30311.11,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00270",
+    "title": "Ad-hoc Report - Sanchez LLC",
+    "date": "14 Sep 2025, 20:33",
+    "total_amount": 109264.76,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00271",
+    "title": "Quarterly Report - Harvey, Fisher and Thomas",
+    "date": "20 Aug 2025, 02:25",
+    "total_amount": 108641.22,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00272",
+    "title": "Weekly Report - Moore Inc",
+    "date": "09 Jul 2025, 09:36",
+    "total_amount": 1309.38,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00273",
+    "title": "Monthly Report - Hoffman, Simmons and Thompson",
+    "date": "16 May 2025, 14:23",
+    "total_amount": 93940.73,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00274",
+    "title": "Quarterly Report - Wells-Lambert",
+    "date": "15 Jun 2025, 15:23",
+    "total_amount": 142924.4,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00275",
+    "title": "Quarterly Report - Turner-Chavez",
+    "date": "13 Sep 2025, 16:18",
+    "total_amount": 193088.83,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00276",
+    "title": "Ad-hoc Report - Martinez, Rice and Reed",
+    "date": "21 Jun 2025, 01:52",
+    "total_amount": 25251.04,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00277",
+    "title": "Quarterly Report - Smith, Ramirez and Zuniga",
+    "date": "13 Aug 2025, 06:25",
+    "total_amount": 105185.29,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00278",
+    "title": "Ad-hoc Report - Hansen PLC",
+    "date": "18 Jul 2025, 00:29",
+    "total_amount": 139588.04,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00279",
+    "title": "Monthly Report - Hernandez, Pittman and Jefferson",
+    "date": "16 Oct 2025, 16:48",
+    "total_amount": 118597.0,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00280",
+    "title": "Ad-hoc Report - Bautista and Sons",
+    "date": "16 Sep 2025, 19:36",
+    "total_amount": 92516.89,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00281",
+    "title": "Ad-hoc Report - Kline-Chandler",
+    "date": "01 Jun 2025, 00:59",
+    "total_amount": 135756.11,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00282",
+    "title": "Monthly Report - Erickson-Santos",
+    "date": "21 Jun 2025, 17:05",
+    "total_amount": 51437.35,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00283",
+    "title": "Quarterly Report - Nguyen and Sons",
+    "date": "22 May 2025, 22:49",
+    "total_amount": 164926.09,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00284",
+    "title": "Quarterly Report - Ross Ltd",
+    "date": "06 Jun 2025, 03:26",
+    "total_amount": 127809.66,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00285",
+    "title": "Quarterly Report - Garcia Inc",
+    "date": "27 Jun 2025, 19:05",
+    "total_amount": 151693.72,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00286",
+    "title": "Monthly Report - Stanley, Shaffer and Gregory",
+    "date": "10 Jun 2025, 13:34",
+    "total_amount": 36892.1,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00287",
+    "title": "Weekly Report - Hayden, Johnson and Costa",
+    "date": "26 Jul 2025, 10:20",
+    "total_amount": 131396.0,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00288",
+    "title": "Weekly Report - Jones, Williams and Coleman",
+    "date": "26 Jun 2025, 17:20",
+    "total_amount": 110978.95,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00289",
+    "title": "Quarterly Report - Moore, Cooper and Bryant",
+    "date": "24 Jun 2025, 08:56",
+    "total_amount": 58273.25,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00290",
+    "title": "Quarterly Report - White-Johnson",
+    "date": "30 Jul 2025, 17:37",
+    "total_amount": 180151.56,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00291",
+    "title": "Ad-hoc Report - Nguyen and Sons",
+    "date": "30 May 2025, 01:07",
+    "total_amount": 3356.33,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00292",
+    "title": "Weekly Report - Sexton-Sanchez",
+    "date": "30 Aug 2025, 19:21",
+    "total_amount": 56776.99,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00293",
+    "title": "Monthly Report - White-Rodriguez",
+    "date": "22 Jul 2025, 20:56",
+    "total_amount": 67654.68,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00294",
+    "title": "Weekly Report - Watts PLC",
+    "date": "10 Sep 2025, 12:39",
+    "total_amount": 86348.99,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00295",
+    "title": "Quarterly Report - Reyes PLC",
+    "date": "10 Aug 2025, 00:48",
+    "total_amount": 47218.88,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00296",
+    "title": "Monthly Report - Anderson-Henry",
+    "date": "18 Jun 2025, 14:30",
+    "total_amount": 168119.07,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00297",
+    "title": "Ad-hoc Report - Alexander-Cabrera",
+    "date": "20 Sep 2025, 06:13",
+    "total_amount": 10053.4,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00298",
+    "title": "Quarterly Report - Vargas, Roman and Simpson",
+    "date": "21 Sep 2025, 01:05",
+    "total_amount": 26108.65,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00299",
+    "title": "Ad-hoc Report - Ortiz LLC",
+    "date": "18 Oct 2025, 07:01",
+    "total_amount": 151866.46,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00300",
+    "title": "Ad-hoc Report - Bauer, Page and Diaz",
+    "date": "28 Jul 2025, 04:19",
+    "total_amount": 148921.98,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00301",
+    "title": "Ad-hoc Report - Rogers-Johnson",
+    "date": "14 Aug 2025, 14:43",
+    "total_amount": 183674.55,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00302",
+    "title": "Quarterly Report - Turner PLC",
+    "date": "08 Sep 2025, 09:14",
+    "total_amount": 45899.82,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00303",
+    "title": "Monthly Report - Hill PLC",
+    "date": "25 Jun 2025, 11:19",
+    "total_amount": 97642.83,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00304",
+    "title": "Quarterly Report - Mueller Group",
+    "date": "05 Jul 2025, 07:13",
+    "total_amount": 198102.59,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00305",
+    "title": "Ad-hoc Report - Miles-Nichols",
+    "date": "25 Oct 2025, 22:32",
+    "total_amount": 153627.11,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00306",
+    "title": "Monthly Report - Vargas Inc",
+    "date": "31 Oct 2025, 20:19",
+    "total_amount": 84527.01,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00307",
+    "title": "Monthly Report - Griffith Ltd",
+    "date": "22 May 2025, 03:08",
+    "total_amount": 100484.87,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00308",
+    "title": "Ad-hoc Report - Fox Ltd",
+    "date": "20 Sep 2025, 12:57",
+    "total_amount": 81972.1,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00309",
+    "title": "Quarterly Report - Green, Perry and Sullivan",
+    "date": "14 Jun 2025, 17:39",
+    "total_amount": 47918.03,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00310",
+    "title": "Ad-hoc Report - Jefferson LLC",
+    "date": "19 Jun 2025, 09:40",
+    "total_amount": 179258.42,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00311",
+    "title": "Quarterly Report - Suarez-Martinez",
+    "date": "15 Oct 2025, 11:23",
+    "total_amount": 143417.99,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00312",
+    "title": "Quarterly Report - Norton-Howard",
+    "date": "01 Oct 2025, 08:40",
+    "total_amount": 125803.91,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00313",
+    "title": "Quarterly Report - Chapman-Houston",
+    "date": "22 Sep 2025, 09:20",
+    "total_amount": 74969.98,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00314",
+    "title": "Ad-hoc Report - Robertson Ltd",
+    "date": "10 Aug 2025, 21:30",
+    "total_amount": 159483.77,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00315",
+    "title": "Quarterly Report - Johnson, Baker and Hughes",
+    "date": "23 Jul 2025, 02:31",
+    "total_amount": 83784.98,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00316",
+    "title": "Monthly Report - Cox-Compton",
+    "date": "17 Sep 2025, 13:25",
+    "total_amount": 51831.14,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00317",
+    "title": "Weekly Report - Miller, Figueroa and Evans",
+    "date": "23 Jun 2025, 11:38",
+    "total_amount": 126666.06,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00318",
+    "title": "Monthly Report - Bray PLC",
+    "date": "23 Oct 2025, 11:07",
+    "total_amount": 190735.5,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00319",
+    "title": "Quarterly Report - Montgomery, Stephenson and Ballard",
+    "date": "03 Aug 2025, 06:56",
+    "total_amount": 79621.81,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00320",
+    "title": "Quarterly Report - Smith Inc",
+    "date": "17 Sep 2025, 19:49",
+    "total_amount": 13544.9,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00321",
+    "title": "Quarterly Report - Petty and Sons",
+    "date": "20 Sep 2025, 09:29",
+    "total_amount": 106794.65,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00322",
+    "title": "Ad-hoc Report - Burns-Evans",
+    "date": "28 Jun 2025, 11:12",
+    "total_amount": 127103.24,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00323",
+    "title": "Weekly Report - Phillips, Barnes and Snyder",
+    "date": "16 Sep 2025, 19:02",
+    "total_amount": 165659.13,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00324",
+    "title": "Monthly Report - Stewart PLC",
+    "date": "12 Oct 2025, 08:58",
+    "total_amount": 102821.22,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00325",
+    "title": "Monthly Report - Rodriguez-Valenzuela",
+    "date": "08 Jul 2025, 02:37",
+    "total_amount": 98975.36,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00326",
+    "title": "Ad-hoc Report - Jackson Ltd",
+    "date": "22 Aug 2025, 13:35",
+    "total_amount": 178958.94,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00327",
+    "title": "Weekly Report - Jordan Ltd",
+    "date": "07 Sep 2025, 14:33",
+    "total_amount": 110625.73,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00328",
+    "title": "Ad-hoc Report - Figueroa, Wood and Poole",
+    "date": "09 Sep 2025, 10:17",
+    "total_amount": 76079.54,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00329",
+    "title": "Weekly Report - Robertson PLC",
+    "date": "17 Jun 2025, 19:45",
+    "total_amount": 152922.6,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00330",
+    "title": "Ad-hoc Report - Woods, Anderson and Harris",
+    "date": "29 Aug 2025, 10:58",
+    "total_amount": 177790.39,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00331",
+    "title": "Quarterly Report - Mcclain-Thompson",
+    "date": "05 Jul 2025, 20:17",
+    "total_amount": 80916.46,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00332",
+    "title": "Monthly Report - Woods Ltd",
+    "date": "22 Oct 2025, 18:35",
+    "total_amount": 199548.91,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00333",
+    "title": "Weekly Report - Hunt, Butler and Garcia",
+    "date": "27 Sep 2025, 23:20",
+    "total_amount": 186533.96,
+    "category": "Inventory",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00334",
+    "title": "Weekly Report - Taylor, Clements and Nguyen",
+    "date": "11 Aug 2025, 06:07",
+    "total_amount": 199040.83,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00335",
+    "title": "Quarterly Report - Fry PLC",
+    "date": "08 Nov 2025, 10:13",
+    "total_amount": 23509.62,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00336",
+    "title": "Ad-hoc Report - Berg-Marquez",
+    "date": "26 Aug 2025, 12:43",
+    "total_amount": 11709.98,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00337",
+    "title": "Quarterly Report - Jones, Kelly and Williams",
+    "date": "24 Aug 2025, 12:56",
+    "total_amount": 156687.86,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00338",
+    "title": "Monthly Report - Steele-Smith",
+    "date": "22 Jul 2025, 16:15",
+    "total_amount": 177537.69,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00339",
+    "title": "Ad-hoc Report - Hernandez Group",
+    "date": "26 May 2025, 14:24",
+    "total_amount": 169772.54,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00340",
+    "title": "Weekly Report - Baker-Jones",
+    "date": "17 Jul 2025, 12:01",
+    "total_amount": 42008.2,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00341",
+    "title": "Quarterly Report - Williams, Martin and Graham",
+    "date": "07 Jun 2025, 01:53",
+    "total_amount": 150091.21,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00342",
+    "title": "Monthly Report - Dorsey and Sons",
+    "date": "27 Oct 2025, 21:28",
+    "total_amount": 21708.06,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00343",
+    "title": "Quarterly Report - Gibson, Thompson and Mclean",
+    "date": "11 Sep 2025, 03:57",
+    "total_amount": 145052.88,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00344",
+    "title": "Monthly Report - Ward-Thomas",
+    "date": "02 Aug 2025, 00:57",
+    "total_amount": 26423.5,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00345",
+    "title": "Ad-hoc Report - Salas-Wilson",
+    "date": "09 Aug 2025, 07:47",
+    "total_amount": 22703.62,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00346",
+    "title": "Weekly Report - Haney LLC",
+    "date": "17 May 2025, 16:50",
+    "total_amount": 138619.04,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00347",
+    "title": "Ad-hoc Report - Jordan, Williams and Brewer",
+    "date": "14 May 2025, 09:40",
+    "total_amount": 124506.15,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00348",
+    "title": "Weekly Report - Davis, Lara and Griffith",
+    "date": "06 Aug 2025, 17:53",
+    "total_amount": 42515.19,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00349",
+    "title": "Ad-hoc Report - Miller PLC",
+    "date": "14 Jun 2025, 03:09",
+    "total_amount": 30168.06,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00350",
+    "title": "Monthly Report - Parker Ltd",
+    "date": "02 Jun 2025, 09:03",
+    "total_amount": 127047.44,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00351",
+    "title": "Weekly Report - Ortega Inc",
+    "date": "18 Aug 2025, 08:44",
+    "total_amount": 53455.12,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00352",
+    "title": "Weekly Report - Roberts Ltd",
+    "date": "13 Jun 2025, 20:39",
+    "total_amount": 18541.99,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00353",
+    "title": "Monthly Report - Cowan Ltd",
+    "date": "07 Sep 2025, 06:51",
+    "total_amount": 6343.53,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00354",
+    "title": "Quarterly Report - Martinez-Costa",
+    "date": "19 Jul 2025, 12:49",
+    "total_amount": 170046.65,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00355",
+    "title": "Ad-hoc Report - Fisher-Solomon",
+    "date": "24 Jun 2025, 16:19",
+    "total_amount": 56202.65,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00356",
+    "title": "Weekly Report - Sanders-Lloyd",
+    "date": "28 Jul 2025, 15:04",
+    "total_amount": 71083.93,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00357",
+    "title": "Weekly Report - Pruitt-Ward",
+    "date": "16 Jul 2025, 09:08",
+    "total_amount": 4466.84,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00358",
+    "title": "Weekly Report - Daniels PLC",
+    "date": "08 Jul 2025, 09:25",
+    "total_amount": 116310.79,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00359",
+    "title": "Quarterly Report - Rogers, Doyle and Clark",
+    "date": "18 Aug 2025, 05:04",
+    "total_amount": 38489.56,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00360",
+    "title": "Ad-hoc Report - Morgan, Gomez and Velazquez",
+    "date": "28 May 2025, 22:15",
+    "total_amount": 94541.22,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00361",
+    "title": "Monthly Report - Robinson-Davies",
+    "date": "27 Jun 2025, 09:57",
+    "total_amount": 55572.74,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00362",
+    "title": "Monthly Report - Martinez-White",
+    "date": "30 Sep 2025, 01:26",
+    "total_amount": 184452.84,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00363",
+    "title": "Quarterly Report - Moore-Padilla",
+    "date": "11 Oct 2025, 04:47",
+    "total_amount": 60422.21,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00364",
+    "title": "Weekly Report - Ashley-Pittman",
+    "date": "27 May 2025, 20:59",
+    "total_amount": 15040.76,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00365",
+    "title": "Ad-hoc Report - French LLC",
+    "date": "19 Jul 2025, 06:34",
+    "total_amount": 62497.23,
+    "category": "Refund",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00366",
+    "title": "Monthly Report - Anderson-Ruiz",
+    "date": "16 Jul 2025, 18:30",
+    "total_amount": 63303.82,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00367",
+    "title": "Monthly Report - Phillips PLC",
+    "date": "05 Oct 2025, 09:35",
+    "total_amount": 87474.3,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00368",
+    "title": "Ad-hoc Report - Anderson-Walker",
+    "date": "18 Jul 2025, 22:35",
+    "total_amount": 187057.54,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00369",
+    "title": "Quarterly Report - Cervantes, Green and Koch",
+    "date": "21 Aug 2025, 04:12",
+    "total_amount": 93293.08,
+    "category": "Inventory",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00370",
+    "title": "Monthly Report - Hunter, Peterson and Hill",
+    "date": "27 Sep 2025, 02:22",
+    "total_amount": 76124.9,
+    "category": "Revenue",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00371",
+    "title": "Quarterly Report - Palmer-Mitchell",
+    "date": "19 Jun 2025, 18:06",
+    "total_amount": 6093.89,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00372",
+    "title": "Monthly Report - Kelley Inc",
+    "date": "05 Sep 2025, 12:08",
+    "total_amount": 176388.87,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00373",
+    "title": "Quarterly Report - Conway, Patterson and Hernandez",
+    "date": "05 Aug 2025, 04:59",
+    "total_amount": 50366.98,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00374",
+    "title": "Weekly Report - Hamilton, Thomas and Fitzgerald",
+    "date": "25 May 2025, 12:40",
+    "total_amount": 168921.8,
+    "category": "Expense",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00375",
+    "title": "Ad-hoc Report - Compton Inc",
+    "date": "14 Jul 2025, 02:11",
+    "total_amount": 86693.58,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00376",
+    "title": "Ad-hoc Report - Brock-Brown",
+    "date": "10 Oct 2025, 09:48",
+    "total_amount": 147604.69,
+    "category": "Revenue",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00377",
+    "title": "Quarterly Report - Perry-Dyer",
+    "date": "02 Jun 2025, 16:16",
+    "total_amount": 79490.14,
+    "category": "Expense",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00378",
+    "title": "Monthly Report - Lee, Mathews and Hayes",
+    "date": "04 Jul 2025, 09:06",
+    "total_amount": 175586.3,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00379",
+    "title": "Monthly Report - Martinez, Stafford and Dawson",
+    "date": "19 Sep 2025, 01:33",
+    "total_amount": 5179.35,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00380",
+    "title": "Quarterly Report - Hansen-Love",
+    "date": "29 Sep 2025, 23:07",
+    "total_amount": 6459.29,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00381",
+    "title": "Monthly Report - Fischer LLC",
+    "date": "05 Oct 2025, 13:33",
+    "total_amount": 132034.43,
+    "category": "Performance",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00382",
+    "title": "Weekly Report - Rangel Group",
+    "date": "05 Jun 2025, 18:54",
+    "total_amount": 46849.97,
+    "category": "Refund",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00383",
+    "title": "Quarterly Report - Golden Inc",
+    "date": "25 Sep 2025, 06:21",
+    "total_amount": 152500.36,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00384",
+    "title": "Weekly Report - Lawrence LLC",
+    "date": "25 Jun 2025, 02:31",
+    "total_amount": 68087.41,
+    "category": "Expense",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00385",
+    "title": "Weekly Report - House Ltd",
+    "date": "18 Jun 2025, 20:50",
+    "total_amount": 52082.9,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00386",
+    "title": "Weekly Report - Morris and Sons",
+    "date": "12 Oct 2025, 19:17",
+    "total_amount": 122677.79,
+    "category": "Revenue",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00387",
+    "title": "Weekly Report - Henson PLC",
+    "date": "23 Sep 2025, 17:15",
+    "total_amount": 122702.05,
+    "category": "Inventory",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00388",
+    "title": "Monthly Report - Garza-Joseph",
+    "date": "08 Aug 2025, 01:00",
+    "total_amount": 44048.65,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00389",
+    "title": "Weekly Report - Davis-Barr",
+    "date": "07 Jul 2025, 03:07",
+    "total_amount": 64949.44,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00390",
+    "title": "Weekly Report - Parsons and Sons",
+    "date": "27 Jul 2025, 00:36",
+    "total_amount": 98550.8,
+    "category": "Performance",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00391",
+    "title": "Ad-hoc Report - Hoffman, Madden and Pineda",
+    "date": "16 Oct 2025, 12:39",
+    "total_amount": 80792.24,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00392",
+    "title": "Weekly Report - Sutton, Webb and Guerrero",
+    "date": "27 Oct 2025, 20:45",
+    "total_amount": 164411.37,
+    "category": "Expense",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00393",
+    "title": "Ad-hoc Report - Mccall, Acosta and Wang",
+    "date": "02 Jul 2025, 10:03",
+    "total_amount": 136278.97,
+    "category": "Refund",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00394",
+    "title": "Weekly Report - Williams, Watson and Bailey",
+    "date": "07 Aug 2025, 11:56",
+    "total_amount": 102941.75,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00395",
+    "title": "Ad-hoc Report - Dunn-Brown",
+    "date": "05 Jun 2025, 04:46",
+    "total_amount": 30204.76,
+    "category": "Refund",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00396",
+    "title": "Monthly Report - Barrera and Sons",
+    "date": "16 Sep 2025, 10:17",
+    "total_amount": 140122.76,
+    "category": "Inventory",
+    "status": "Completed",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00397",
+    "title": "Quarterly Report - Hall-Richards",
+    "date": "25 Oct 2025, 17:07",
+    "total_amount": 137159.76,
+    "category": "Performance",
+    "status": "Draft",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00398",
+    "title": "Ad-hoc Report - Parker, Robinson and Johnson",
+    "date": "13 Sep 2025, 17:34",
+    "total_amount": 28753.72,
+    "category": "Performance",
+    "status": "Archived",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00399",
+    "title": "Monthly Report - Cunningham, Gonzalez and Wilson",
+    "date": "01 Sep 2025, 13:18",
+    "total_amount": 92936.37,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  },
+  {
+    "id": "RPT-00400",
+    "title": "Quarterly Report - Church Inc",
+    "date": "14 Jul 2025, 09:09",
+    "total_amount": 191996.17,
+    "category": "Revenue",
+    "status": "In Review",
+    "actions": "View"
+  }
+]
