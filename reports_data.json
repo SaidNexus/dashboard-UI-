@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
   {
     "id": "RPT-00001",
@@ -3600,7 +3599,6 @@
     "status": "In Review",
     "actions": "View"
   }
-=======
 [
   {
     "id": "RPT-00001",
@@ -7202,5 +7200,3 @@
     "status": "In Review",
     "actions": "View"
   }
->>>>>>> 3bc1988a9b5c50c3552602997e73d574e42c1af5
-]

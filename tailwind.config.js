@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /** @type {import('tailwindcss').Config} */
 
 export default {
@@ -12,7 +11,6 @@ export default {
   },
   plugins: [],
 };
-=======
 /** @type {import('tailwindcss').Config} */
 
 export default {
@@ -26,4 +24,3 @@ export default {
   },
   plugins: [],
 };
->>>>>>> 3bc1988a9b5c50c3552602997e73d574e42c1af5
