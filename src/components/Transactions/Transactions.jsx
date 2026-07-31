@@ -4,8 +4,8 @@ import { useState, useEffect } from "react";
 import TransactionsPerDay from "./TransactionsperDay";
 import DesKTopView from "./DesKTopView";
 import MobileTransactionsTable from "./MobileView";
-import Scroll from "./scroll.jsx";
-import Filter from "./Filter.jsx";
+import Scroll from "./Scroll";
+import Filter from "./Filter";
 
 export default function Transactions() {
   const [dateRange, setDateRange] = useState("");
